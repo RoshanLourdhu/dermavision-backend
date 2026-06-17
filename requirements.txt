@@ -6,9 +6,6 @@ numpy
 opencv-python
 pillow
 
-torch
-torchvision
-
 matplotlib
 scikit-image
 scipy
