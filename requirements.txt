@@ -12,4 +12,5 @@ torchvision
 matplotlib
 scikit-image
 scipy
+plotly
 requests
