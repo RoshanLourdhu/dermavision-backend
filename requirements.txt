@@ -12,3 +12,4 @@ torchvision
 matplotlib
 scikit-image
 scipy
+requests
